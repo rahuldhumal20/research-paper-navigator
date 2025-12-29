@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+
+# Environment & config
+python-dotenv
+
+# PDF processing
+pypdf
+
+# Vector database
+chromadb
+
+# Graph database
+neo4j
+
+# LLM providers (choose one or both)
+openai
+google-generativeai
+
+# File upload support
+python-multipart
+
+# Utilities
+requests
